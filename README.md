@@ -1,16 +1,11 @@
-## Hi there 👋
+#Olá!
+<p align="center"
+  <!-- Estatísticas -->
+  <img
+src="https://github-readme-stats.vercel.app/api?username=Emelytestes12&show_icons=true&theme=radical&cache_seconds=1"
+height="165"/>
 
-<!--
-**Emelytestes12/Emelytestes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelytestes12&layout=compact&theme=radical&cache_seconds=1"
+height="165"/>
+</p>
