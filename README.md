@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center"> 💗💗💗💗💗
 
 
 <p align="center">
@@ -6,7 +6,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg2Z3dxNGd5dzk0ZWVvY3hhMnhiZDFmZnNvYXJqYnQ4YWIzeXh2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif" height="200"/>
 </p>
 
-<p align="center">💗
+<p align="center">
   <!-- Estatísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=Emelytestes12&show_icons=true&theme=radical&cache_seconds=1" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelytestes12&layout=compact&theme=radical" height="165"/> 
