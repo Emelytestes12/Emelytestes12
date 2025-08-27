@@ -1,4 +1,4 @@
-<p align="center"> 💗
+<p align="center"> 
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 <p align="center">💗
   <!-- Estatísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=Emelytestes12&show_icons=true&theme=radical&cache_seconds=1" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelytestes12&layout=compact&theme=radical" height="165"/> 💗
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelytestes12&layout=compact&theme=radical" height="165"/> 
 </p> 
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  💌 Vamos nos conectar?💗<br>
+  💌 Vamos nos conectar?<br>
   <a href="https://www.linkedin.com/in/emelymariab/"><img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
