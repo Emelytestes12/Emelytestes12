@@ -31,9 +31,9 @@
 
 ---
 
-## 🌐 Vamos nos conectar?
 
 <p align="center">
+  🌐 Vamos nos conectar? <br>
   <a href="https://www.linkedin.com/in/emelymariab/" target="_blank">
     <img height="80" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
