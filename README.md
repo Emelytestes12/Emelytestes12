@@ -1,9 +1,5 @@
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Emelytestes12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" height="180"/>
-</p>
-<p align="center">
   <!-- Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emelytestes12&theme=tokyonight" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emelytestes12&theme=tokyonight" height="180"/>
