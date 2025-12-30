@@ -1,3 +1,22 @@
+# Olá, eu sou a Emely! 👋
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend_Developer-blue?style=for-the-badge" alt="Frontend Developer"/>
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-grey?style=for-the-badge" alt="Engenharia de Software"/>
+</p>
+
+---
+
+### ⚡ Além do Código
+  *Unindo a precisão da **Engenharia de Software** com a inovação da **IA Industrial**.*
+</div>
+
+### 📚 Formação Acadêmica
+* 🎓 **Bacharelado:** Engenharia de Software (Uniasselvi)
+* 🏫 **Técnico:** Informática (IFPB)
+* 🤖 **Especialização:** IA Industrial (SENAI)
+ 
+---
 
 <p align="center">
   <!-- Stats Cards -->
@@ -59,13 +78,12 @@ Aqui é onde transformo ideias em interfaces reais e responsivas.
 
 ---
 
-
-<p align="center">
-  🌐 Vamos nos conectar? <br>
-  <a href="https://www.linkedin.com/in/emelymariab/" target="_blank">
-    <img height="80" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/emelymariab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:emelymaria259@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+
 
 
 
