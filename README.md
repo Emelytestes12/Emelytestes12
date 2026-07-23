@@ -8,12 +8,6 @@
  
 ---
 
-<p align="center">
-  <!-- Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emelytestes12&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emelytestes12&theme=tokyonight" height="180"/>
-</p>
-
 --- 
 ## 🚀 Competências Técnicas
 
