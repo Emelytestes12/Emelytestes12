@@ -1,16 +1,6 @@
 # Olá, eu sou a Emely! 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-blue?style=for-the-badge" alt="Frontend Developer"/>
-  <img src="https://img.shields.io/badge/Engenharia_de_Software-grey?style=for-the-badge" alt="Engenharia de Software"/>
-   <img src="https://img.shields.io/badge/IA_Industrial-green?style=for-the-badge" alt="IA_Industrial"/>
-</p>
- 
----
-
 --- 
-## 🚀 Competências Técnicas
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -43,7 +33,7 @@
 ### 📫 Vamos nos conectar?
 <p align="center">
   <a href="https://www.linkedin.com/in/emelymariab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:emelymaria259@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </a>
 </p>
 
 
